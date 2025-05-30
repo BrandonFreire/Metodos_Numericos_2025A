@@ -1,5 +1,5 @@
 # 📚 Métodos Numéricos - 2025A  
-*Notebooks de las clases de Métodos Numéricos*  
+*Notebooks de  las clases de Métodos Numéricos*  
 
 Ismael Freire
 
@@ -10,4 +10,4 @@ Lista organizada de los notebooks con una breve descripción:
 |----------|-------------|  
 | `1_Class1.ipynb` | Exactitud vs Precisión / Tipos de errores / Representación Numérica |  
 | `2_Class2.ipynb` | Representación Numérica / Aritmética de digitos finitos / Algoritmo / Convergencia, divergencia y tolerancia / Criterios de parada|  
-| `3_EDOs.ipynb` | Ecuaciones Diferenciales | Métodos de Euler y Runge-Kutta. |  
+| `3_Class4.ipynb` | Teorema del valor intermedio / Búsqueda de cambio de signo / Método de la bisección |  
